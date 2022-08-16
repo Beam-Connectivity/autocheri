@@ -1,0 +1,12 @@
+theme: jekyll-theme-slate
+
+title: AutoCHERI🍒
+
+github:
+  is_project_page: false
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
+
+links:
+  - title: Home
+    url: /
