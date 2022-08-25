@@ -2,16 +2,16 @@
 layout: default
 ---
 
-We are still at the start of the project, but this site will be updated as we progress... 
+Welcome! We are still at the start of the project, so this site will be updated as we progress... 
 
 
 # What is the AutoCHERI🍒 project?
 
 This project has three main goals:
 
-1. Demonstrate CHERI technology for cyber critical and safety critical applications 
-    1. Develop a TCU based on Morello architecture for each use case.
-    1. Measure the security / safety / performance trade-offs and the impact of CHERI
+1. Demonstrate CHERI technology for cyber critical and safety critical applications by: 
+     developing a TCU based on Morello architecture for each use case, and
+     Measure the security / safety / performance trade-offs and the impact of CHERI
 1. Assess go-to-market routes for CHERI based products in automotive
 1. Explore how this ties in with the emerging, global vehicle cyber security regulations
 
@@ -46,6 +46,7 @@ CHERI stands for “Capability Hardware Enhanced RISC Instructions”.
     * Enforces memory safety of pointers
     * Introduces ‘Capabilities’ to limit access to memory that was not expected by the original developers.
 
+Read more about [CHERI from University of Cambridge](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri)
 
 ### ... and Morello?
 
@@ -54,11 +55,13 @@ It is a development board, compiler & toolchain to allow us to write programs an
 
 So for our project, Morello is the platform to prove the efficacy of CHERI in automotive domain.
 
+Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/morello    )
+
 
 # News & Links
 
 More to follow... 
 
-* Beam Connectivity announce AutoCHERI🍒 kick-off - https://www.beamconnectivity.com/blog/autocheri-project-announcement
-* Microsoft on CHERI - https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/
-* UK Government announcing DSbD projects including AutoCHERI - https://www.ukri.org/news/government-announces-new-national-cyber-strategy/
+* Beam Connectivity announce AutoCHERI kick-off - [https://www.beamconnectivity.com/blog/autocheri-project-announcement](https://www.beamconnectivity.com/blog/autocheri-project-announcement)
+* Microsoft on CHERI - [https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris](https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris)
+* UK Government announces AutoCHERI funding - [https://www.ukri.org/news/government-announces-new-national-cyber-strategy](https://www.ukri.org/news/government-announces-new-national-cyber-strategy)
