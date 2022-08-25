@@ -3,12 +3,12 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap .inner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .inner {
     max-width: 900px;
-}
-
-project_title {
-    color: #A93A33;
 }
 
 h1 {
