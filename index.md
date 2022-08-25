@@ -15,7 +15,7 @@ This project has three main goals:
 1. Assess go-to-market routes for CHERI based products in automotive
 1. Explore how this ties in with the emerging, global vehicle cyber security regulations
 
-The performance-vs-security trade-off manifests different depending on the workload being processed by the system. A large part of the project is focussed on analysing, threat modelling and implementing four specific use cases. 
+The performance-vs-security trade-off manifests differently depending on the workload being processed by the system. A large part of the project is focussed on analysing, threat modelling and implementing four specific use cases. 
 
 1. **Vehicle diagnostics data** - Processing data from CAN, through the TCU and up to the cloud.
 1. **OTA software update** - Pulling software packages from the cloud, cryptographically verifying them, and passing on other vehicle ECUs.
