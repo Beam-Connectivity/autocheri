@@ -22,3 +22,17 @@ h2 {
 h3 {
     color: #A93A33;
 }
+
+table, tr, td {
+    border-collapse: collapse;
+    border-width: 0;
+    border: none;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+img {
+    border-collapse: collapse;
+    border-width: 0;
+    box-shadow: none;
+}
