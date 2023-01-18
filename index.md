@@ -63,6 +63,13 @@ So for our project, Morello is the platform to prove the efficacy of CHERI in au
 
 Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/morello    )
 
+# Presentations
+
+More to follow... 
+
+* DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
+* Lesson from Integrating Morello into vehicle systems - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/Beam+Connectivity+-+Lessons+from+Integrating+Morello+into+Vehicle+System.pdf), Webcast video (coming soon!)
+
 
 # News & Links
 
