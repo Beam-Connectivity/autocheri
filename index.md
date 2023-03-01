@@ -72,6 +72,8 @@ Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/mor
 
 ### News & Links
 
+* 06/02/2023 - Microsoft implementing CHERI on RISC-V - [https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
+* 21/11/2022 - Protecting OpenSSL with CHERI, from NquiringMinds - [https://manysecured.net/openssl/](https://manysecured.net/openssl/)
 * 19/07/2022 - Beam Connectivity announce AutoCHERI kick-off - [https://www.beamconnectivity.com/blog/autocheri-project-announcement](https://www.beamconnectivity.com/blog/autocheri-project-announcement)
-* 20/10/2022 - Microsoft on CHERI - [https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris](https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris)
+* 20/10/2022 - Microsoft on CHERI - [https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/](https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/)
 * 15/12/2021 - UK Government announces AutoCHERI funding - [https://www.ukri.org/news/government-announces-new-national-cyber-strategy](https://www.ukri.org/news/government-announces-new-national-cyber-strategy)
