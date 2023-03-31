@@ -28,10 +28,10 @@ The performance-vs-security trade-off manifests differently depending on the wor
 This project is made possible by the cross-sector collaboration of the consortium members:
 
 |:---:|:---:|:---:|:---:|:---:|
-|![Applus-IDIADA](/assets/images/Applus+_IDIADA_Logo.png){: height="60" } | ![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="60" } | ![Beam-Connectivity](/assets/images/CSA-Catapult-transparent.png){: height="50" } | ![Beam-Connectivity](/assets/images/swansea-university-2017.en.png){: height="60" } | ![Beam-Connectivity](/assets/images/Uni_Exeter.svg.png){: height="60" }
+|![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="60" } | ![Applus-IDIADA](/assets/images/Applus+_IDIADA_Logo.png){: height="60" }  | ![Beam-Connectivity](/assets/images/CSA-Catapult-transparent.png){: height="50" } | ![Beam-Connectivity](/assets/images/swansea-university-2017.en.png){: height="60" } | ![Beam-Connectivity](/assets/images/Uni_Exeter.svg.png){: height="60" }
 
-* **Applus IDIADA** - Systems engineering, validation and regulatory analysis
 * **Beam Connectivity** - Project lead, implementation and test of CHERI based telematics system
+* **Applus IDIADA** - Systems engineering, validation and regulatory analysis
 * **CSA Catapult** - Industry stakeholder engagement and market analysis
 * **University of Exeter** - Software engineering support for CHERI
 * **Swansea University** - Cyber security analysis and threat modelling
