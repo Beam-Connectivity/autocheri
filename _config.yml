@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 title: AutoCHERI🍒
 
 image:
-  path: /assets/images/Beam Connectivity logo 900x300 transparent.png
+  path: '/assets/images/Beam Connectivity logo 900x300 transparent.png'
   height: 300
   width: 900
 
