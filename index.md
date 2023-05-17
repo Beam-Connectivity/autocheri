@@ -66,9 +66,10 @@ Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/mor
 # Find out more
 
 ### Presentations
-
-* 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
+* 10/05/2023 - GAAC Presentation on Cyber Security Challenges For Connected Vehicles - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/SEMI-GAAC-BeamConnectivity-connected-security-PUBLIC.pdf)
 * 17/01/2023 - Lesson from Integrating Morello into vehicle systems - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/Beam+Connectivity+-+Lessons+from+Integrating+Morello+into+Vehicle+System.pdf), [Webcast video](https://www.youtube.com/watch?v=u58BDmhonSE)
+* 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
+
 
 ### News & Links
 
