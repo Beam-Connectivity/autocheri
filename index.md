@@ -21,7 +21,7 @@ The performance-vs-security trade-off manifests differently depending on the wor
 1. **OTA software update** - Pulling software packages from the cloud, cryptographically verifying them, and passing on other vehicle ECUs.
 1. **V2I traffic advisory** - Communicating with roadside infrastructure via cellular-V2X protocols.
 1. **Teleoperation** - This is a use case that is safety critical and requires extremely low-latency, so is more impacted by poor performance.
-
+1. **OTA software update of vehicle ECUs** - Creating new software for OpenECU and updating over CAN using UDS. 
 
 ### Consortium Partners
 
@@ -59,21 +59,31 @@ Read more about [CHERI from University of Cambridge](https://www.cl.cam.ac.uk/re
 Morello is Arm's implementation of CHERI on Arm v8.2 architecture.
 It is a development board, compiler & toolchain to allow us to write programs and run them leveraging CHERI
 
-So for our project, Morello is the platform to prove the efficacy of CHERI in automotive domain.
+So for our project, Morello is the platform to prove the efficacy of CHERI in the automotive domain.
 
 Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/morello    )
 
+### CHERI-Enabled RISC-V
+
+An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html) has been developed, providing an open-source alternative to Morello. This provides exciting opportunities for companies to begin prototyping and commercializing CHERI technology, and some companies such as [Codasip](https://codasip.com/solutions/riscv-processor-safety-security/cheri/) have made commercial CHERI-enabled RISC-V processors available. 
+
 # Find out more
+### AutoCHERI Video
+* 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU).
 
 ### Presentations
-* 06/09/2023 - Cenex-CAM Conference - Secure hardware for connected vehicles - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/AutoCHERI%20-%20Cenex-LCV%20-%20Sept%202023.pdf)
-* 10/05/2023 - GAAC Presentation on Cyber Security Challenges For Connected Vehicles - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/SEMI-GAAC-BeamConnectivity-connected-security-PUBLIC.pdf)
+
+* 01/02/2024 - AutoCHERI Summit, February 2024 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/AutoCHERI%20Workshop%20240201.pdf)
 * 17/01/2023 - Lesson from Integrating Morello into vehicle systems - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/Beam+Connectivity+-+Lessons+from+Integrating+Morello+into+Vehicle+System.pdf), [Webcast video](https://www.youtube.com/watch?v=u58BDmhonSE)
 * 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
 
 
+
+
 ### News & Links
 
+* 30/01/2024 - Infosecurity Europe article on Digital Security By Design - [https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html](https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html)
+* 25/01/2024 - AutoCHERI Video
 * 31/04/2023 - CISA Paper on Digital Security by Design (DSbD) mentioning CHERI - [https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * 06/02/2023 - Microsoft implementing CHERI on RISC-V - [https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
 * 21/11/2022 - Protecting OpenSSL with CHERI, from NquiringMinds - [https://manysecured.net/openssl/](https://manysecured.net/openssl/)
