@@ -72,16 +72,12 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 * 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU&t=310s).
 
 ### Presentations
-<<<<<<< HEAD
-* 06/09/2023 - Cenex-CAM Conference - Secure hardware for connected vehicles - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/AutoCHERI%20-%20Cenex-LCV%20-%20Sept%202023.pdf)
-* 10/05/2023 - GAAC Presentation on Cyber Security Challenges For Connected Vehicles - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/SEMI-GAAC-BeamConnectivity-connected-security-PUBLIC.pdf)
-=======
 
-* 01/02/2024 - AutoCHERI Summit, February 2024 - [PDF slides](LINK_GOES_HERE)
-* 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
->>>>>>> Changes for beam summit - still needs presentation link
+* 01/02/2024 - AutoCHERI Summit, February 2024 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/AutoCHERI%20Workshop%20240201.pdf)
 * 17/01/2023 - Lesson from Integrating Morello into vehicle systems - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/Beam+Connectivity+-+Lessons+from+Integrating+Morello+into+Vehicle+System.pdf), [Webcast video](https://www.youtube.com/watch?v=u58BDmhonSE)
 * 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
+
+
 
 
 ### News & Links
