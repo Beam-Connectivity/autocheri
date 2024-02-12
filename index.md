@@ -69,7 +69,7 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 
 # Find out more
 ### AutoCHERI Video
-* 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU&t=310s).
+* 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU).
 
 ### Presentations
 
