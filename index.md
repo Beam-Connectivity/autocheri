@@ -28,7 +28,7 @@ The performance-vs-security trade-off manifests differently depending on the wor
 This project is made possible by the cross-sector collaboration of the consortium members:
 
 |:---:|:---:|:---:|:---:|:---:|
-|![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="60" } | ![Applus-IDIADA](/assets/images/Applus+_IDIADA_Logo.png){: height="60" }  | ![Beam-Connectivity](/assets/images/CSA-Catapult-transparent.png){: height="50" } | ![Beam-Connectivity](/assets/images/swansea-university-2017.en.png){: height="60" } | ![Beam-Connectivity](/assets/images/Uni_Exeter.svg.png){: height="60" }
+|![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="60" } | ![Applus-IDIADA](/assets/images/Applus+_IDIADA_Logo.png){: height="60" }  | ![Beam-Connectivity](/assets/images/CSA-Catapult-transparent.png){: height="50" } | ![Beam-Connectivity](/assets/images/swansea-university-2017.en.png){: height="60" } | ![Beam-Connectivity](/assets/images/University of Exeter_Crest_Logo_RGB_Uni_Landscape_Pos_Lrg.png){: height="60" }
 
 * **Beam Connectivity** - Project lead, implementation and test of CHERI based telematics system
 * **Applus IDIADA** - Systems engineering, validation and regulatory analysis
@@ -83,7 +83,6 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 ### News & Links
 
 * 30/01/2024 - Infosecurity Europe article on Digital Security By Design - [https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html](https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html)
-* 25/01/2024 - AutoCHERI Video
 * 31/04/2023 - CISA Paper on Digital Security by Design (DSbD) mentioning CHERI - [https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * 06/02/2023 - Microsoft implementing CHERI on RISC-V - [https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
 * 21/11/2022 - Protecting OpenSSL with CHERI, from NquiringMinds - [https://manysecured.net/openssl/](https://manysecured.net/openssl/)
