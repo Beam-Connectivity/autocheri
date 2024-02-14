@@ -2,26 +2,27 @@
 layout: default
 ---
 
-Welcome! We are still at the start of the project, so this site will be updated as we progress... 
+Cyber security is of critical importance to the automotive industry, as the volume and complexity of hacks are increasing. Securing Connected and Autonomous Vehicles (CAVs) is a particular challenge as they expose a multitude of wireless interfaces and process data from external systems: cellular, GPS, Wi-Fi/BT, camera and sensor inputs.
 
+The AutoCHERI🍒 project is focussed on the area of CAV cyber security and the opportunities and challenges that CHERI might bring in this sector.
 
-# What is the AutoCHERI🍒 project?
+# Project Summary
 
 This project has three main goals:
 
 1. Demonstrate CHERI technology for cyber critical and safety critical applications by: 
-     developing a TCU based on Morello architecture for each use case, and
-     Measure the security / safety / performance trade-offs and the impact of CHERI
-1. Assess go-to-market routes for CHERI based products in automotive
+<br/>- Developing a TCU based on Morello architecture for each use case, and
+<br/>- Measure the security / safety / performance trade-offs and the impact of CHERI
+1. Assess go-to-market routes for CHERI based products in the automotive industry
 1. Explore how this ties in with the emerging, global vehicle cyber security regulations
 
 The performance-vs-security trade-off manifests differently depending on the workload being processed by the system. A large part of the project is focussed on analysing, threat modelling and implementing four specific use cases. 
 
 1. **Vehicle diagnostics data** - Processing data from CAN, through the TCU and up to the cloud.
-1. **OTA software update** - Pulling software packages from the cloud, cryptographically verifying them, and passing on other vehicle ECUs.
+1. **OTA software update of TCU** - Pulling software packages from the cloud, cryptographically verifying them, and passing on other vehicle ECUs.
 1. **V2I traffic advisory** - Communicating with roadside infrastructure via cellular-V2X protocols.
 1. **Teleoperation** - This is a use case that is safety critical and requires extremely low-latency, so is more impacted by poor performance.
-1. **OTA software update of vehicle ECUs** - Creating new software for OpenECU and updating over CAN using UDS. 
+1. **OTA software update of vehicle ECUs** - For a conventional and a RISC-V CHERI ECU, pulling software packages from the cloud and updating them over CAN using UDS. 
 
 ### Consortium Partners
 
@@ -30,13 +31,13 @@ This project is made possible by the cross-sector collaboration of the consortiu
 |:---:|:---:|:---:|:---:|:---:|
 |![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="60" } | ![Applus-IDIADA](/assets/images/Applus+_IDIADA_Logo.png){: height="60" }  | ![Beam-Connectivity](/assets/images/CSA-Catapult-transparent.png){: height="50" } | ![Beam-Connectivity](/assets/images/swansea-university-2017.en.png){: height="60" } | ![Beam-Connectivity](/assets/images/University of Exeter_Crest_Logo_RGB_Uni_Landscape_Pos_Lrg.png){: height="60" }
 
-* **Beam Connectivity** - Project lead, implementation and test of CHERI based telematics system
+* **Beam Connectivity** - Project lead, implementation and integration of CHERI based automotive component
 * **Applus IDIADA** - Systems engineering, validation and regulatory analysis
 * **CSA Catapult** - Industry stakeholder engagement and market analysis
 * **University of Exeter** - Software engineering support for CHERI
 * **Swansea University** - Cyber security analysis and threat modelling
 
-
+- - - 
 
 # DSbD Technologies 
 
@@ -67,6 +68,8 @@ Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/mor
 
 An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html) has been developed, providing an open-source alternative to Morello. This provides exciting opportunities for companies to begin prototyping and commercializing CHERI technology, and some companies such as [Codasip](https://codasip.com/solutions/riscv-processor-safety-security/cheri/) have made commercial CHERI-enabled RISC-V processors available. 
 
+- - -
+
 # Find out more
 ### AutoCHERI Video
 * 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU).
@@ -78,8 +81,6 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 * 13/10/2022 - DSbD All Hands, October 2022 - [PDF slides](https://beam-infra-public-bucket-s3bucket-w7tdylcrnx9g.s3.eu-west-1.amazonaws.com/blog-assets/DSbD+All+Hands+Oct+2022+-+AutoCHERI+update.pdf)
 
 
-
-
 ### News & Links
 
 * 30/01/2024 - Infosecurity Europe article on Digital Security By Design - [https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html](https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html)
@@ -89,3 +90,36 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 * 19/07/2022 - Beam Connectivity announce AutoCHERI kick-off - [https://www.beamconnectivity.com/blog/autocheri-project-announcement](https://www.beamconnectivity.com/blog/autocheri-project-announcement)
 * 20/10/2022 - Microsoft on CHERI - [https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/](https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/)
 * 15/12/2021 - UK Government announces AutoCHERI funding - [https://www.ukri.org/news/government-announces-new-national-cyber-strategy](https://www.ukri.org/news/government-announces-new-national-cyber-strategy)
+
+- - - 
+
+# Automotive Security by Design Summit
+
+The AutoCHERI consortium hosted a workshop on 01 February 2024 to bring together leaders in automotive cyber security to discuss the challenges the industry is facing. With a focus on taking a holistic, security by design approach, the delegates explored the value that secure hardware foundations can bring to the automotive industry.
+
+Summit delegates included experts from a number of sectors including: Tier 1s, automotive OEMs, academia, semiconductor design, and cyber security.
+
+![Beam-Connectivity](/assets/asbd-workshop/banner-image2.png){: width="900" style="display: block; margin: 0 auto"}
+
+### Presentations
+
+The presentations included:
+
+1. **Cybersecurity and Resilience in Automotive Hardware: The Challenges Ahead** - *Paul Wooderson, Chief Engineer, Cybersecurity, HORIBA MIRA*
+1. **Automotive Cyber Security: From a Connectivity Viewpoint** - *Thomas Sors, CEO, Beam Connectivity*
+1. **Enhanced Hardware Silver Bullet or Lead Weight and why it matters whether you are werewolf or fish** - *Peter Davies, Technical Director, THALES*
+1. **AESIN: The UK Automotive Electronics Systems Innovation Network** - *Gunny Ghadyalla, Director, AESIN*
+
+### Workshop
+
+The workshop was focussed on cyber security challenges introduced by a supply chain complexity and the evolving vehicle architectures - setting our time horizon to 5+ years in the future.
+
+The workshop sessions considered three specific questions:
+
+1. As vehicle platforms evolve towards more consolidated compute hardware, how can cyber-critical & performance-sensitive processes be isolated from each other? 
+1. As software content increases & software supply chain becomes more complex, how can the quality & security of all the dependencies be ensured to prevent huge loss and damage in years to come?
+1. There are numerous areas of cyber resilience that need attention in the automotive industry. What are the major challenge areas?
+
+### Conclusions
+
+Awaiting Cam's input
