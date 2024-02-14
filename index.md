@@ -6,6 +6,16 @@ Cyber security is of critical importance to the automotive industry, as the volu
 
 The AutoCHERI🍒 project is focussed on the area of CAV cyber security and the opportunities and challenges that CHERI might bring in this sector.
 
+- - -
+
+This project site covers:
+* [Project Summary](#project-summary)
+* [DSbD Technologies](#dsbd-technologies)
+* [Find out more](#find-out-more)
+* [Automotive Security by Design Summit](#automotive-security-by-design-summit)
+
+- - -
+
 # Project Summary
 
 This project has three main goals:
@@ -71,8 +81,10 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 - - -
 
 # Find out more
-### AutoCHERI Video
-* 25/01/2024 - Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. [Video Link](https://www.youtube.com/watch?v=dwkpQC-laIU).
+### AutoCHERI Project Showcase
+Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. 
+
+https://www.youtube.com/watch?v=dwkpQC-laIU
 
 ### Presentations
 
@@ -101,7 +113,7 @@ Summit delegates included experts from a number of sectors including: Tier 1s, a
 
 ![Beam-Connectivity](/assets/asbd-workshop/banner-image2.png){: width="900" style="display: block; margin: 0 auto"}
 
-### Presentations
+### Presentations and Demos
 
 The presentations included:
 
@@ -109,6 +121,9 @@ The presentations included:
 1. **Automotive Cyber Security: From a Connectivity Viewpoint** - *Thomas Sors, CEO, Beam Connectivity*
 1. **Enhanced Hardware Silver Bullet or Lead Weight and why it matters whether you are werewolf or fish** - *Peter Davies, Technical Director, THALES*
 1. **AESIN: The UK Automotive Electronics Systems Innovation Network** - *Gunny Ghadyalla, Director, AESIN*
+
+![Beam-Connectivity](/assets/asbd-workshop/presentation-from-back.jpeg){: width="900" style="display: block; margin: 0 auto"} 
+
 
 ### Workshop
 
@@ -120,6 +135,8 @@ The workshop sessions considered three specific questions:
 1. As software content increases & software supply chain becomes more complex, how can the quality & security of all the dependencies be ensured to prevent huge loss and damage in years to come?
 1. There are numerous areas of cyber resilience that need attention in the automotive industry. What are the major challenge areas?
 
-### Conclusions
 
-Awaiting Cam's input
+There were also demonstrations from AutoCHERI and ResAuto innovation projects showed how advanced hardware security might be applied.
+
+![Beam-Connectivity](/assets/asbd-workshop/vehicle-demo-cameron-outside-1.jpeg){: height="280"}
+![Beam-Connectivity](/assets/asbd-workshop/workshop-session-from-back.jpg){: height="280"}
