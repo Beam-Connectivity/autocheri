@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Cyber security is of critical importance to the automotive industry, as the volume and complexity of hacks are increasing. Securing Connected and Autonomous Vehicles (CAVs) is a particular challenge as they expose a multitude of wireless interfaces and process data from external systems: cellular, GPS, Wi-Fi/BT, camera and sensor inputs.
+Cyber security is of critical importance to the automotive industry, as the volume and complexity of hacks is increasing. Securing Connected and Autonomous Vehicles (CAVs) is a particular challenge as they expose a multitude of wireless interfaces and process data from untrusted, external systems via: cellular, GPS, Wi-Fi/BT, C-V2X, camera and sensor inputs.
 
 The AutoCHERI🍒 project is focussed on the area of CAV cyber security and the opportunities and challenges that CHERI might bring in this sector.
 
