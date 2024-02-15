@@ -10,7 +10,7 @@ The AutoCHERI🍒 project is focussed on the area of CAV cyber security and the 
 
 This project site covers:
 * [Project Summary](#project-summary)
-* [DSbD Technologies](#dsbd-technologies)
+* [What is CHERI?](#dsbd-technologies)
 * [Find out more](#find-out-more)
 * [Automotive Security by Design Summit](#automotive-security-by-design-summit)
 
@@ -26,13 +26,15 @@ This project has three main goals:
 1. Assess go-to-market routes for CHERI based products in the automotive industry
 1. Explore how this ties in with the emerging, global vehicle cyber security regulations
 
-The performance-vs-security trade-off manifests differently depending on the workload being processed by the system. A large part of the project is focussed on analysing, threat modelling and implementing four specific use cases. 
+The performance-vs-security trade-off manifests differently depending on the workload being processed by the system. 
+
+A large part of the project is focussed on analysing, threat modelling and implementing a number of specific use cases. With these specific workloads, we can then compare the performance impact of enabling CHERI capabilities and understand if what types of workload CHERI might be more or less appropriate for. The use cases that are being evaluated: 
 
 1. **Vehicle diagnostics data** - Processing data from CAN, through the TCU and up to the cloud.
-1. **OTA software update of TCU** - Pulling software packages from the cloud, cryptographically verifying them, and passing on other vehicle ECUs.
+1. **OTA software update of TCU** - Pulling software packages from the cloud, cryptographically verifying them.
 1. **V2I traffic advisory** - Communicating with roadside infrastructure via cellular-V2X protocols.
-1. **Teleoperation** - This is a use case that is safety critical and requires extremely low-latency, so is more impacted by poor performance.
-1. **OTA software update of vehicle ECUs** - For a conventional and a RISC-V CHERI ECU, pulling software packages from the cloud and updating them over CAN using UDS. 
+1. **Teleoperation** - Monitoring latency in safety critical operations to observe where additional processing would cause an impact.
+1. **OTA software update of RISC-V vehicle ECUs** - For a RISC-V CHERI ECU, pulling software packages from the cloud and updating them over CAN using UDS. 
 
 ### Consortium Partners
 
@@ -65,7 +67,7 @@ CHERI stands for **Capability Hardware Enhanced RISC Instructions**. CHERI exten
 
 Read more about [CHERI from University of Cambridge](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri)
 
-### ... and Morello?
+### The Morello prototyping platform
 
 Morello is Arm's implementation of CHERI on Arm v8.2 architecture.
 It is a development board, compiler & toolchain to allow us to write programs and run them leveraging CHERI
@@ -76,7 +78,9 @@ Read more about [Arm's Morello Program](https://www.arm.com/architecture/cpu/mor
 
 ### CHERI-Enabled RISC-V
 
-An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html) has been developed, providing an open-source alternative to Morello. This provides exciting opportunities for companies to begin prototyping and commercializing CHERI technology, and some companies such as [Codasip](https://codasip.com/solutions/riscv-processor-safety-security/cheri/) have made commercial CHERI-enabled RISC-V processors available. 
+An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html) has been developed, providing an open-source alternative to Morello. 
+
+This provides exciting opportunities for companies to begin prototyping and commercializing CHERI technology, and some companies such as [Codasip](https://codasip.com/solutions/riscv-processor-safety-security/cheri/) have made commercial CHERI-enabled RISC-V processors available. 
 
 - - -
 
@@ -84,7 +88,7 @@ An extension of RISC-V to support CHERI-based capabilities [(CHERI-RISC-V)](http
 ### AutoCHERI Project Showcase
 Watch the video we created to explain the work we've done. Includes perspectives from our project partners on why our work is impactful, and footage from our on-track testing. 
 
-https://www.youtube.com/watch?v=dwkpQC-laIU
+[https://www.youtube.com/watch?v=dwkpQC-laIU](https://www.youtube.com/watch?v=dwkpQC-laIU)
 
 ### Presentations
 
