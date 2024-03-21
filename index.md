@@ -12,8 +12,8 @@ This project site covers:
 * [Project Summary](#project-summary)
 * [What is CHERI?](#dsbd-technologies)
 * [Find out more](#find-out-more)
-* [Automotive Security by Design Summit: Coventry, UK](#automotive-security-by-design-summit-uk)
-* [Automotive Security by Design Summit: Munich, Germany](#automotive-security-by-design-summit-munich)
+* [Automotive Security by Design Summit: UK](#automotive-security-by-design-summit-uk)
+* [Automotive Security by Design Summit: Munich](#automotive-security-by-design-summit-munich)
 
 - - -
 
@@ -110,7 +110,7 @@ Watch the video we created to explain the work we've done. Includes perspectives
 
 - - - 
 
-# Automotive Security by Design Summit, UK
+# Automotive Security by Design Summit: UK
 
 The AutoCHERI consortium hosted a workshop on 01 February 2024 to bring together leaders in automotive cyber security to discuss the challenges the industry is facing. With a focus on taking a holistic, security by design approach, the delegates explored the value that secure hardware foundations can bring to the automotive industry.
 
@@ -148,7 +148,7 @@ There were also demonstrations from AutoCHERI and ResAuto innovation projects sh
 ![Beam-Connectivity](/assets/asbd-workshop/workshop-session-from-back.jpg){: height="280"}
 
 
-# Automotive Security by Design Summit, Munich
+# Automotive Security by Design Summit: Munich
 
 📣 The next event hosted by the AutoCHERI consortium will take place in Munich on the 6th May 2024. 
 
