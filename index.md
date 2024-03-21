@@ -116,7 +116,7 @@ The AutoCHERI consortium hosted a workshop on 01 February 2024 to bring together
 
 Summit delegates included experts from a number of sectors including: Tier 1s, automotive OEMs, academia, semiconductor design, and cyber security.
 
-![Beam-Connectivity](/assets/asbd-workshop/banner-image2.png){: width="900" style="display: block; margin: 0 auto}| !
+![Beam-Connectivity](/assets/asbd-workshop/banner-image2.png){: width="900" style="display: block; margin: 0 auto}
 
 ### Presentations and Demos
 
@@ -157,4 +157,4 @@ For further details about the event or to register your attendence, please click
 
 
 ![Beam-Connectivity](/assets/asbd-workshop-munich/Blue%20Neon%20Welcome%20To%20Our%20Gallery%20Email%20Header%20(8).png){: width="900" 
-style="display: block; margin: 0 auto}| !
+style="display: block; margin: 0 auto}
