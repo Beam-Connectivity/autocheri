@@ -100,11 +100,12 @@ Watch the video we created to explain the work we've done. Includes perspectives
 
 ### News & Links
 
+* 19/02/2025 - Validating CHERI for real automotive use cases - [https://blog.beamconnectivity.com/from-concept-to-reality-how-we-validated-cheri-for-real-automotive-use-cases-c58930e577fd](https://blog.beamconnectivity.com/from-concept-to-reality-how-we-validated-cheri-for-real-automotive-use-cases-c58930e577fd)
 * 30/01/2024 - Infosecurity Europe article on Digital Security By Design - [https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html](https://www.infosecurityeurope.com/en-gb/blog/future-thinking/dsbd-vulnerability-management-cycle.html)
 * 31/04/2023 - CISA Paper on Digital Security by Design (DSbD) mentioning CHERI - [https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * 06/02/2023 - Microsoft implementing CHERI on RISC-V - [https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
 * 21/11/2022 - Protecting OpenSSL with CHERI, from NquiringMinds - [https://manysecured.net/openssl/](https://manysecured.net/openssl/)
-* 19/07/2022 - Beam Connectivity announce AutoCHERI kick-off - [https://www.beamconnectivity.com/blog/autocheri-project-announcement](https://www.beamconnectivity.com/blog/autocheri-project-announcement)
+* 19/07/2022 - Beam Connectivity announce AutoCHERI kick-off - [https://blog.beamconnectivity.com/autocheri-project-announcement-92e743daf3bb](https://blog.beamconnectivity.com/autocheri-project-announcement-92e743daf3bb)
 * 20/10/2022 - Microsoft on CHERI - [https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/](https://msrc.microsoft.com/blog/2022/01/an_armful_of_cheris/)
 * 15/12/2021 - UK Government announces AutoCHERI funding - [https://www.ukri.org/news/government-announces-new-national-cyber-strategy](https://www.ukri.org/news/government-announces-new-national-cyber-strategy)
 
